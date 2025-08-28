@@ -11,7 +11,7 @@ android {
     compileSdk = and.compileSdk
 
     defaultConfig {
-        applicationId ="com.example.testbuildgradlekts"
+        applicationId = "com.example.testbuildgradlekts"
         minSdk = and.minSdk
         targetSdk = and.targetSdk
         versionCode = 1
