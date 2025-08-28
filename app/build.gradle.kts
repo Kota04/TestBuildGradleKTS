@@ -46,5 +46,7 @@ dependencies {
 
     dep.test.apply {
         testImplementation(junit)
+        androidTestImplementation(androidJunit)
+        androidTestImplementation(espressoCore)
     }
 }
